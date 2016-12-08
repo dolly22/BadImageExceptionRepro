@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "Microsoft.Extensions.Configuration": "1.1.0"
+  },
+
+  "frameworks": {
+    "net461": {}
+  },
+
+  "runtimes": {
+    "win-anycpu": {},
+    "win": {}
+  }
+}
